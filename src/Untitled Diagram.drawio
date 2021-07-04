@@ -1,62 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T11:50:16.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="vgepFl1I6AyVFGiVp9_A" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T13:03:17.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="pRelDD18jB7O7BZ6Cs73" version="14.8.4" type="github">
   <diagram id="CIAxVXfz2YOMCZSWfoRj" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="890" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="110" />
-              <mxPoint x="600" y="890" />
-              <mxPoint x="160" y="890" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-2" value="Do the CODE that 1st condition is TRUE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297" y="70" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ipI4EIz30rkVXhbQ6jwG-2">
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ipI4EIz30rkVXhbQ6jwG-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="110" as="sourcePoint" />
-            <mxPoint x="290" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ipI4EIz30rkVXhbQ6jwG-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="297" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-12" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="90" width="40" height="20" as="geometry" />
+          <mxGeometry x="374" y="150" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-13">
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="870" as="targetPoint" />
+            <mxPoint x="160" y="270" as="targetPoint" />
+            <mxPoint x="477" y="270" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="580" y="270" />
-              <mxPoint x="580" y="870" />
-              <mxPoint x="160" y="870" />
+              <mxPoint x="160" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-13" value="&lt;span&gt;Do the CODE that 2nd condition is TRUE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297" y="230" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="ipI4EIz30rkVXhbQ6jwG-15" parent="1" target="ipI4EIz30rkVXhbQ6jwG-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="270" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-15" target="ipI4EIz30rkVXhbQ6jwG-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-15" value="Second Condition" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="95" y="210" width="130" height="120" as="geometry" />
+          <mxGeometry x="297" y="210" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-16" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="40" height="20" as="geometry" />
+          <mxGeometry x="374" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-18" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="30" height="20" as="geometry" />
+          <mxGeometry x="170" y="210" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ipI4EIz30rkVXhbQ6jwG-19">
           <mxGeometry relative="1" as="geometry">
@@ -65,89 +41,65 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-19" target="ipI4EIz30rkVXhbQ6jwG-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-19" value="First Condition" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="95" y="50" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-21" value="INPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="20" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ipI4EIz30rkVXhbQ6jwG-26">
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="330" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="850" as="targetPoint" />
+            <mxPoint x="160" y="440" as="targetPoint" />
+            <mxPoint x="477" y="440" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="560" y="440" />
-              <mxPoint x="560" y="850" />
-              <mxPoint x="160" y="850" />
+              <mxPoint x="160" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-24" value="&lt;span&gt;Do the CODE that 3rd condition is TRUE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297" y="400" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-26" target="ipI4EIz30rkVXhbQ6jwG-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="440" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-26" target="ipI4EIz30rkVXhbQ6jwG-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-26" value="Third Condition" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="95" y="380" width="130" height="120" as="geometry" />
+          <mxGeometry x="297" y="380" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-27" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="374" y="510" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-28" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="350" width="30" height="20" as="geometry" />
+          <mxGeometry x="230" y="280" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ipI4EIz30rkVXhbQ6jwG-32">
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="500" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="830" as="targetPoint" />
+            <mxPoint x="160" y="610" as="targetPoint" />
+            <mxPoint x="477" y="610" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="540" y="610" />
-              <mxPoint x="540" y="830" />
-              <mxPoint x="160" y="830" />
+              <mxPoint x="180" y="610" />
+              <mxPoint x="180" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-30" value="&lt;span&gt;Do the CODE that 4th condition is TRUE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297" y="570" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-32" target="ipI4EIz30rkVXhbQ6jwG-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="610" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-32" target="ipI4EIz30rkVXhbQ6jwG-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-32" value="Fourth Condition" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="95" y="550" width="130" height="120" as="geometry" />
+          <mxGeometry x="297" y="550" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-33" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="590" width="40" height="20" as="geometry" />
+          <mxGeometry x="374" y="680" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-34" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="520" width="30" height="20" as="geometry" />
+          <mxGeometry x="230" y="450" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-36" value="OUTPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="890" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-37" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="690" width="30" height="20" as="geometry" />
+          <mxGeometry x="230" y="620" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="159.5" y="670" as="sourcePoint" />
-            <mxPoint x="159.5" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ipI4EIz30rkVXhbQ6jwG-45" value="&lt;span&gt;Do the CODE when all the conditions are not TRUE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-45" value="&lt;span&gt;Do the CODE when each one of the conditions is not TRUE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="720" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ipI4EIz30rkVXhbQ6jwG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -155,6 +107,17 @@
             <mxPoint x="160" y="800" as="sourcePoint" />
             <mxPoint x="160" y="930" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ipI4EIz30rkVXhbQ6jwG-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="362" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ipI4EIz30rkVXhbQ6jwG-53" value="&lt;span&gt;Do the CODE when all the conditions are TRUE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="720" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
